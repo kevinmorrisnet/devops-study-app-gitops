@@ -11,6 +11,6 @@ namePrefix: dev-
 
 images:
   - name: ghcr.io/kevinmorrisnet/study-app-api:latest
-    newTag: backend-v0.2.0
+    newTag: backend-v0.2.1
   - name: ghcr.io/kevinmorrisnet/study-app-web:latest
-    newTag: frontend-v0.1.0
+    newTag: frontend-v0.2.1
