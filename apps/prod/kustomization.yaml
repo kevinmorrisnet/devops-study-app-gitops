@@ -10,4 +10,4 @@ images:
   - name: ghcr.io/kevinmorrisnet/study-app-api
     newTag: backend-v1.1.0
   - name: ghcr.io/kevinmorrisnet/study-app-web
-    newTag: frontend-v1.1.0
+    newTag: frontend-v1.2.0
