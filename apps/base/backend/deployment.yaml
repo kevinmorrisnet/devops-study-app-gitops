@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: ghcr.io/kevinmorrisnet/study-app-api:backend-v0.2.1
+          image: ghcr.io/kevinmorrisnet/study-app-api:latest
           ports:
             - containerPort: 22112
           resources:

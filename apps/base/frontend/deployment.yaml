@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: ghcr.io/kevinmorrisnet/study-app-web:frontend-v0.2.1
+          image: ghcr.io/kevinmorrisnet/study-app-web:latest
           ports:
             - containerPort: 22111
           env:
